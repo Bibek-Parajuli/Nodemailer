@@ -1,0 +1,1 @@
+simple mail sending application using node.js library nodemailer
